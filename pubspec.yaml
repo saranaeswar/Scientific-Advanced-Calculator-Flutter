@@ -58,7 +58,7 @@ dependencies:
   http: ^1.1.0
   
   # Package info for version checking
-  package_info_plus: ^8.0.0
+  package_info_plus: ^9.0.0
   
   # In-app updates for Android
   in_app_update: ^4.2.5
